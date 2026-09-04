@@ -7,7 +7,7 @@ about:
   head: 5df5fe5
   archived: false
   latestVersion: v0.6.4
-  collectedAt: 2026-09-04T19:29:10Z
+  collectedAt: 2026-09-04T21:01:58Z
 timeline:
   created: 2022-07-27
   lastCommit: 2025-12-15
@@ -81,5 +81,28 @@ total:
   openIssue: 0
   commit: 135
 ---
+path: /home/runner/.x-repo/github.com/jon4hz/fztea
+collectedAt: 2026-09-04T21:01:58Z
+loc:
+  Go:
+    code: 834
+    comments: 89
+    blanks: 120
+    files: 11
+  Sh:
+    code: 10
+    comments: 2
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 54
+    blanks: 16
+    files: 1
+total:
+  code: 855
+  comments: 159
+  blanks: 144
+  files: 14
 ---
 
