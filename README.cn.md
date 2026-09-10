@@ -4,7 +4,7 @@
 
 🐬🧋  Remote control your flipper from the local terminal or over SSH
 
-![fztea](https://repo.x-cmd.io/fztea.svg)
+![fztea](https://repo.x-cmd.io/fztea.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,33 @@ x install fztea
 - **最新版本**: `v0.6.4` (2024-09-01)
 - **最近提交**: 2025-12-15
 - **Release 含资产**: 22 个
-- **发布时间**: 2024-09-01T16:33:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/jon4hz/fztea/releases/download/v0.6.4/checksums.txt) | 2.0 KiB | `other` |
+| [fztea-0.6.4.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-0.6.4.tar.gz) | 3.4 MiB | `native/unknown` |
+| [fztea-v0.6.4-darwin-amd64.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-darwin-amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [fztea-v0.6.4-darwin-arm64.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-darwin-arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [fztea-v0.6.4-linux-386.apk](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-386.apk) | 3.3 MiB | `other` |
+| [fztea-v0.6.4-linux-386.deb](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-386.deb) | 3.3 MiB | `other` |
+| [fztea-v0.6.4-linux-386.rpm](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-386.rpm) | 3.3 MiB | `other` |
+| [fztea-v0.6.4-linux-386.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-386.tar.gz) | 3.3 MiB | `native/unknown` |
+| [fztea-v0.6.4-linux-amd64.apk](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.apk) | 3.5 MiB | `native/linux/x64` |
+| [fztea-v0.6.4-linux-amd64.deb](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.deb) | 3.4 MiB | `native/linux/x64` |
+| [fztea-v0.6.4-linux-amd64.rpm](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.rpm) | 3.5 MiB | `native/linux/x64` |
+| [fztea-v0.6.4-linux-amd64.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.tar.gz) | 3.4 MiB | `native/linux/x64` |
+| [fztea-v0.6.4-linux-arm64.apk](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.apk) | 3.3 MiB | `native/linux/arm64` |
+| [fztea-v0.6.4-linux-arm64.deb](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.deb) | 3.2 MiB | `native/linux/arm64` |
+| [fztea-v0.6.4-linux-arm64.rpm](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.rpm) | 3.3 MiB | `native/linux/arm64` |
+| [fztea-v0.6.4-linux-arm64.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.tar.gz) | 3.2 MiB | `native/linux/arm64` |
+| [fztea-v0.6.4-linux-armv7.apk](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-armv7.apk) | 3.3 MiB | `native/linux/arm` |
+| [fztea-v0.6.4-linux-armv7.deb](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-armv7.deb) | 3.2 MiB | `native/linux/arm` |
+| [fztea-v0.6.4-linux-armv7.rpm](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-armv7.rpm) | 3.3 MiB | `native/linux/arm` |
+| [fztea-v0.6.4-linux-armv7.tar.gz](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-armv7.tar.gz) | 3.2 MiB | `native/linux/arm` |
+| [fztea-v0.6.4-windows-386.zip](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-windows-386.zip) | 3.4 MiB | `native/win/x64` |
+| [fztea-v0.6.4-windows-amd64.zip](https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-windows-amd64.zip) | 3.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -59,4 +85,4 @@ fztea 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:57:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:42:52Z._
