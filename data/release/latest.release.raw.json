@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3612496,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2024-09-01T16:33:13Z",
       "updated_at": "2024-09-01T16:33:13Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-0.6.4.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3634472,
       "digest": null,
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2024-09-01T16:33:10Z",
       "updated_at": "2024-09-01T16:33:10Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-darwin-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3511133,
       "digest": null,
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2024-09-01T16:33:11Z",
       "updated_at": "2024-09-01T16:33:11Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-386.apk"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3611776,
       "digest": null,
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2024-09-01T16:33:12Z",
       "updated_at": "2024-09-01T16:33:12Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 3600546,
       "digest": null,
-      "download_count": 303,
+      "download_count": 305,
       "created_at": "2024-09-01T16:33:10Z",
       "updated_at": "2024-09-01T16:33:11Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3426560,
       "digest": null,
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2024-09-01T16:33:11Z",
       "updated_at": "2024-09-01T16:33:11Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.apk"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3426206,
       "digest": null,
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2024-09-01T16:33:12Z",
       "updated_at": "2024-09-01T16:33:13Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-arm64.rpm"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3453402,
       "digest": null,
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2024-09-01T16:33:11Z",
       "updated_at": "2024-09-01T16:33:11Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-linux-armv7.apk"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3754541,
       "digest": null,
-      "download_count": 45,
+      "download_count": 46,
       "created_at": "2024-09-01T16:33:13Z",
       "updated_at": "2024-09-01T16:33:13Z",
       "browser_download_url": "https://github.com/jon4hz/fztea/releases/download/v0.6.4/fztea-v0.6.4-windows-amd64.zip"
